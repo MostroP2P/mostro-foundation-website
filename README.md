@@ -1,7 +1,9 @@
 # Mostro Foundation Website
-This nuxt project uses yarn as package manager.
+Visit our website at  [mostro.foundation](https://mostro.foundation/)
 
 ## Setup
+This nuxt project uses yarn as package manager.
+
 Ensure you have **Yarn version 4.5.3** installed for this project. You can check your current Yarn version by running:
 
 
