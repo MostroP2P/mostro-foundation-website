@@ -15,19 +15,21 @@
       </svg>
       <div class="mx-auto max-w-md text-center lg:mx-0 lg:flex-auto lg:pt-16 lg:text-left">
         <h2 class="text-balance text-3xl font-semibold tracking-tight text-white sm:text-4xl">
-          Help us keep funding mostro projects
+          Help us keep funding Mostro projects
         </h2>
         <p class="mt-6 text-pretty font-light text-lg/8 text-white">
           This project's development has been made possible thanks to the incredible support from the community.
         </p>
         <div class="mt-10 flex items-center justify-center gap-x-6 lg:justify-start">
-          <a
-            class="font-semibold bg-secondary-400 hover:bg-secondary-500 shadow-lg  text-tertiary-700 px-10 py-2 rounded-full transition-all duration-400 ease-in-out"
+          <base-button
             href="https://geyser.fund/project/mostro"
+            theme="secondary"
+            label="Donate today"
           >
-            Donate today
-            <span aria-hidden="true">&rarr;</span>
-          </a>
+            <template #icon>
+              <span aria-hidden="true">&rarr;</span>
+            </template>
+          </base-button>
         </div>
       </div>
     </div>
