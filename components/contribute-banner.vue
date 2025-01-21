@@ -2,10 +2,10 @@
 <div class="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32 px-19">
   <div class="flex items-center gap-8 mx-auto max-w-7xl px-6 lg:px-8">
     <div class="mx-auto max-w-2xl lg:mx-0">
-      <h2 class="text-3xl font-semibold tracking-tight text-tertiary-700 sm:text-5xl">
+      <h2 class="text-4xl font-semibold tracking-tight text-tertiary-700 sm:text-6xl">
         Great software is built by skilled, well supported people
       </h2>
-      <p class="mt-8 text-pretty text-lg font-medium text-tertiary-700 sm:text-xl/8">
+      <p class="mt-8 text-pretty text-xl font-medium text-tertiary-700 sm:text-2xl/8">
         Our foundation is a non-profit organization supporting the builders of
         <span>
           <a href="https://mostro.network/" target="_blank" class="text-primary-600 underline">

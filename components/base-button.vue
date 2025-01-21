@@ -27,7 +27,7 @@ const props = withDefaults(defineProps<BaseButtonProps>(), {
 
 const buttonStyles = computed((): string[] => {
   return ([
-    "flex text-center items-center gap-2 font-semibold shadow-lg px-10 py-2 rounded-full transition-all duration-300 ease-in-out",
+    "flex text-center items-center gap-2 font-black shadow-lg px-10 py-2 rounded-full transition-all duration-300 ease-in-out uppercase",
     themeClasses[props.theme],
   ]);
 });
