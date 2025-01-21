@@ -44,7 +44,11 @@ export default {
         '950': '#262626',
       }
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Roboto Condensed', 'sans-serif'],
+      }
+    },
   },
   plugins: [],
 }

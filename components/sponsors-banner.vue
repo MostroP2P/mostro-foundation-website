@@ -1,7 +1,7 @@
 <template>
   <div class="bg-primary-500 py-24 sm:py-32">
     <div class="mx-auto max-w-7xl px-6 lg:px-8 flex flex-col gap-y-8">
-      <h2 class="text-center text-lg/8 font-medium text-white">
+      <h2 class="text-center text-xl/8 font-medium text-white">
         Proudly supported by
       </h2>
       <div class="grid grid-cols-2 md:flex gap-10 lg:gap-20 items-center justify-center">

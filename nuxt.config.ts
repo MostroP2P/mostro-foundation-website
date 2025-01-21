@@ -5,6 +5,7 @@ export default defineNuxtConfig({
   modules: [
     '@nuxtjs/tailwindcss',
     '@nuxt/eslint',
+    ['@nuxtjs/google-fonts', { families: { 'Roboto+Condensed': true }, preload: true }]
   ],
   typescript: {
     typeCheck: true

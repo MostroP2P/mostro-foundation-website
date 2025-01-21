@@ -21,13 +21,13 @@ import { smoothScroll } from '../utils/scroll'
         </div>
         <div class="flex gap-x-4 md:gap-x-12">
           <a
-            class="text-sm/6 font-semibold text-white"
+            class="text-md/6 font-semibold text-white uppercase"
             href="https://geyser.fund/project/mostro"
           >
             Donate
           </a>
           <a
-            class="text-sm/6 font-semibold text-white"
+            class="text-md/6 font-semibold text-white uppercase"
             href="#about-us"
             @click.prevent="smoothScroll('#about-us')"
           >
@@ -35,7 +35,7 @@ import { smoothScroll } from '../utils/scroll'
           </a>
           <a
             href="#contact"
-            class="text-sm/6 font-semibold text-white"
+            class="text-md/6 font-semibold text-white uppercase"
             @click.prevent="smoothScroll('#contact')"
           >
             Follow us
