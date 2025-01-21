@@ -25,7 +25,7 @@
             <img
               class="h-5"
               src="~/assets/icons/github.svg"
-              alt="GitHub logo">
+              alt="GitHub logo"
             >
           </template>
         </base-button>
